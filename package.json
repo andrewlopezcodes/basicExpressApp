@@ -1,0 +1,11 @@
+{
+  "name": "basicexpressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "author": "github: @andrewlopezcodes",
+  "license": "ISC"
+}
